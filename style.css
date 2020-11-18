@@ -1,0 +1,21 @@
+
+
+#container {
+  border:  solid black;
+  margin: 1px;
+  text-align: center;
+  outline: #4CAF50 solid 10px;
+ border-width: 15px 70px;
+ background-color: lightyellow;
+ }
+
+h1 {
+  color: red;
+  text-align: center;
+}
+h3 {
+  color: red;
+  text-align: center;
+  outline: solid darkblue 20px;
+  margin: 10px;
+}
